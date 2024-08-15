@@ -1,0 +1,140 @@
+C:\Users\urism\Downloads\EnigmaTotal\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\urism\Downloads\EnigmaTotal\bin\Debug\net8.0\appsettings.json
+C:\Users\urism\Downloads\EnigmaTotal\bin\Debug\net8.0\EnigmaTotal.staticwebassets.runtime.json
+C:\Users\urism\Downloads\EnigmaTotal\bin\Debug\net8.0\EnigmaTotal.exe
+C:\Users\urism\Downloads\EnigmaTotal\bin\Debug\net8.0\EnigmaTotal.deps.json
+C:\Users\urism\Downloads\EnigmaTotal\bin\Debug\net8.0\EnigmaTotal.runtimeconfig.json
+C:\Users\urism\Downloads\EnigmaTotal\bin\Debug\net8.0\EnigmaTotal.dll
+C:\Users\urism\Downloads\EnigmaTotal\bin\Debug\net8.0\EnigmaTotal.pdb
+C:\Users\urism\Downloads\EnigmaTotal\obj\Debug\net8.0\EnigmaTotal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\urism\Downloads\EnigmaTotal\obj\Debug\net8.0\EnigmaTotal.AssemblyInfoInputs.cache
+C:\Users\urism\Downloads\EnigmaTotal\obj\Debug\net8.0\EnigmaTotal.AssemblyInfo.cs
+C:\Users\urism\Downloads\EnigmaTotal\obj\Debug\net8.0\EnigmaTotal.csproj.CoreCompileInputs.cache
+C:\Users\urism\Downloads\EnigmaTotal\obj\Debug\net8.0\EnigmaTotal.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\urism\Downloads\EnigmaTotal\obj\Debug\net8.0\EnigmaTotal.RazorAssemblyInfo.cache
+C:\Users\urism\Downloads\EnigmaTotal\obj\Debug\net8.0\EnigmaTotal.RazorAssemblyInfo.cs
+C:\Users\urism\Downloads\EnigmaTotal\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\urism\Downloads\EnigmaTotal\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\urism\Downloads\EnigmaTotal\obj\Debug\net8.0\staticwebassets\msbuild.EnigmaTotal.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\urism\Downloads\EnigmaTotal\obj\Debug\net8.0\staticwebassets\msbuild.build.EnigmaTotal.props
+C:\Users\urism\Downloads\EnigmaTotal\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EnigmaTotal.props
+C:\Users\urism\Downloads\EnigmaTotal\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EnigmaTotal.props
+C:\Users\urism\Downloads\EnigmaTotal\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\urism\Downloads\EnigmaTotal\obj\Debug\net8.0\scopedcss\bundle\EnigmaTotal.styles.css
+C:\Users\urism\Downloads\EnigmaTotal\obj\Debug\net8.0\EnigmaTotal.dll
+C:\Users\urism\Downloads\EnigmaTotal\obj\Debug\net8.0\refint\EnigmaTotal.dll
+C:\Users\urism\Downloads\EnigmaTotal\obj\Debug\net8.0\EnigmaTotal.pdb
+C:\Users\urism\Downloads\EnigmaTotal\obj\Debug\net8.0\EnigmaTotal.genruntimeconfig.cache
+C:\Users\urism\Downloads\EnigmaTotal\obj\Debug\net8.0\ref\EnigmaTotal.dll
+C:\Users\JSS\Downloads\EnigmaTotal - 12_8\EnigmaTotal\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\JSS\Downloads\EnigmaTotal - 12_8\EnigmaTotal\bin\Debug\net8.0\appsettings.json
+C:\Users\JSS\Downloads\EnigmaTotal - 12_8\EnigmaTotal\bin\Debug\net8.0\EnigmaTotal.staticwebassets.runtime.json
+C:\Users\JSS\Downloads\EnigmaTotal - 12_8\EnigmaTotal\bin\Debug\net8.0\EnigmaTotal.exe
+C:\Users\JSS\Downloads\EnigmaTotal - 12_8\EnigmaTotal\bin\Debug\net8.0\EnigmaTotal.deps.json
+C:\Users\JSS\Downloads\EnigmaTotal - 12_8\EnigmaTotal\bin\Debug\net8.0\EnigmaTotal.runtimeconfig.json
+C:\Users\JSS\Downloads\EnigmaTotal - 12_8\EnigmaTotal\bin\Debug\net8.0\EnigmaTotal.dll
+C:\Users\JSS\Downloads\EnigmaTotal - 12_8\EnigmaTotal\bin\Debug\net8.0\EnigmaTotal.pdb
+C:\Users\JSS\Downloads\EnigmaTotal - 12_8\EnigmaTotal\obj\Debug\net8.0\EnigmaTotal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JSS\Downloads\EnigmaTotal - 12_8\EnigmaTotal\obj\Debug\net8.0\EnigmaTotal.AssemblyInfoInputs.cache
+C:\Users\JSS\Downloads\EnigmaTotal - 12_8\EnigmaTotal\obj\Debug\net8.0\EnigmaTotal.AssemblyInfo.cs
+C:\Users\JSS\Downloads\EnigmaTotal - 12_8\EnigmaTotal\obj\Debug\net8.0\EnigmaTotal.csproj.CoreCompileInputs.cache
+C:\Users\JSS\Downloads\EnigmaTotal - 12_8\EnigmaTotal\obj\Debug\net8.0\EnigmaTotal.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\JSS\Downloads\EnigmaTotal - 12_8\EnigmaTotal\obj\Debug\net8.0\EnigmaTotal.RazorAssemblyInfo.cache
+C:\Users\JSS\Downloads\EnigmaTotal - 12_8\EnigmaTotal\obj\Debug\net8.0\EnigmaTotal.RazorAssemblyInfo.cs
+C:\Users\JSS\Downloads\EnigmaTotal - 12_8\EnigmaTotal\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\JSS\Downloads\EnigmaTotal - 12_8\EnigmaTotal\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\JSS\Downloads\EnigmaTotal - 12_8\EnigmaTotal\obj\Debug\net8.0\staticwebassets\msbuild.EnigmaTotal.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\JSS\Downloads\EnigmaTotal - 12_8\EnigmaTotal\obj\Debug\net8.0\staticwebassets\msbuild.build.EnigmaTotal.props
+C:\Users\JSS\Downloads\EnigmaTotal - 12_8\EnigmaTotal\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EnigmaTotal.props
+C:\Users\JSS\Downloads\EnigmaTotal - 12_8\EnigmaTotal\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EnigmaTotal.props
+C:\Users\JSS\Downloads\EnigmaTotal - 12_8\EnigmaTotal\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\JSS\Downloads\EnigmaTotal - 12_8\EnigmaTotal\obj\Debug\net8.0\scopedcss\bundle\EnigmaTotal.styles.css
+C:\Users\JSS\Downloads\EnigmaTotal - 12_8\EnigmaTotal\obj\Debug\net8.0\EnigmaTotal.dll
+C:\Users\JSS\Downloads\EnigmaTotal - 12_8\EnigmaTotal\obj\Debug\net8.0\refint\EnigmaTotal.dll
+C:\Users\JSS\Downloads\EnigmaTotal - 12_8\EnigmaTotal\obj\Debug\net8.0\EnigmaTotal.pdb
+C:\Users\JSS\Downloads\EnigmaTotal - 12_8\EnigmaTotal\obj\Debug\net8.0\EnigmaTotal.genruntimeconfig.cache
+C:\Users\JSS\Downloads\EnigmaTotal - 12_8\EnigmaTotal\obj\Debug\net8.0\ref\EnigmaTotal.dll
+C:\Users\JSS\Downloads\EnigmaTotal - 12_8.1\EnigmaTotal\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\JSS\Downloads\EnigmaTotal - 12_8.1\EnigmaTotal\bin\Debug\net8.0\appsettings.json
+C:\Users\JSS\Downloads\EnigmaTotal - 12_8.1\EnigmaTotal\bin\Debug\net8.0\EnigmaTotal.staticwebassets.runtime.json
+C:\Users\JSS\Downloads\EnigmaTotal - 12_8.1\EnigmaTotal\bin\Debug\net8.0\EnigmaTotal.exe
+C:\Users\JSS\Downloads\EnigmaTotal - 12_8.1\EnigmaTotal\bin\Debug\net8.0\EnigmaTotal.deps.json
+C:\Users\JSS\Downloads\EnigmaTotal - 12_8.1\EnigmaTotal\bin\Debug\net8.0\EnigmaTotal.runtimeconfig.json
+C:\Users\JSS\Downloads\EnigmaTotal - 12_8.1\EnigmaTotal\bin\Debug\net8.0\EnigmaTotal.dll
+C:\Users\JSS\Downloads\EnigmaTotal - 12_8.1\EnigmaTotal\bin\Debug\net8.0\EnigmaTotal.pdb
+C:\Users\JSS\Downloads\EnigmaTotal - 12_8.1\EnigmaTotal\obj\Debug\net8.0\EnigmaTotal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JSS\Downloads\EnigmaTotal - 12_8.1\EnigmaTotal\obj\Debug\net8.0\EnigmaTotal.AssemblyInfoInputs.cache
+C:\Users\JSS\Downloads\EnigmaTotal - 12_8.1\EnigmaTotal\obj\Debug\net8.0\EnigmaTotal.AssemblyInfo.cs
+C:\Users\JSS\Downloads\EnigmaTotal - 12_8.1\EnigmaTotal\obj\Debug\net8.0\EnigmaTotal.csproj.CoreCompileInputs.cache
+C:\Users\JSS\Downloads\EnigmaTotal - 12_8.1\EnigmaTotal\obj\Debug\net8.0\EnigmaTotal.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\JSS\Downloads\EnigmaTotal - 12_8.1\EnigmaTotal\obj\Debug\net8.0\EnigmaTotal.RazorAssemblyInfo.cache
+C:\Users\JSS\Downloads\EnigmaTotal - 12_8.1\EnigmaTotal\obj\Debug\net8.0\EnigmaTotal.RazorAssemblyInfo.cs
+C:\Users\JSS\Downloads\EnigmaTotal - 12_8.1\EnigmaTotal\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\JSS\Downloads\EnigmaTotal - 12_8.1\EnigmaTotal\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\JSS\Downloads\EnigmaTotal - 12_8.1\EnigmaTotal\obj\Debug\net8.0\staticwebassets\msbuild.EnigmaTotal.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\JSS\Downloads\EnigmaTotal - 12_8.1\EnigmaTotal\obj\Debug\net8.0\staticwebassets\msbuild.build.EnigmaTotal.props
+C:\Users\JSS\Downloads\EnigmaTotal - 12_8.1\EnigmaTotal\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EnigmaTotal.props
+C:\Users\JSS\Downloads\EnigmaTotal - 12_8.1\EnigmaTotal\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EnigmaTotal.props
+C:\Users\JSS\Downloads\EnigmaTotal - 12_8.1\EnigmaTotal\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\JSS\Downloads\EnigmaTotal - 12_8.1\EnigmaTotal\obj\Debug\net8.0\scopedcss\bundle\EnigmaTotal.styles.css
+C:\Users\JSS\Downloads\EnigmaTotal - 12_8.1\EnigmaTotal\obj\Debug\net8.0\EnigmaTotal.dll
+C:\Users\JSS\Downloads\EnigmaTotal - 12_8.1\EnigmaTotal\obj\Debug\net8.0\refint\EnigmaTotal.dll
+C:\Users\JSS\Downloads\EnigmaTotal - 12_8.1\EnigmaTotal\obj\Debug\net8.0\EnigmaTotal.pdb
+C:\Users\JSS\Downloads\EnigmaTotal - 12_8.1\EnigmaTotal\obj\Debug\net8.0\EnigmaTotal.genruntimeconfig.cache
+C:\Users\JSS\Downloads\EnigmaTotal - 12_8.1\EnigmaTotal\obj\Debug\net8.0\ref\EnigmaTotal.dll
+C:\Users\48311441\Downloads\EnigmaTotal - 13_8\EnigmaTotal - 13_8\EnigmaTotal\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\48311441\Downloads\EnigmaTotal - 13_8\EnigmaTotal - 13_8\EnigmaTotal\bin\Debug\net8.0\appsettings.json
+C:\Users\48311441\Downloads\EnigmaTotal - 13_8\EnigmaTotal - 13_8\EnigmaTotal\bin\Debug\net8.0\EnigmaTotal.staticwebassets.runtime.json
+C:\Users\48311441\Downloads\EnigmaTotal - 13_8\EnigmaTotal - 13_8\EnigmaTotal\bin\Debug\net8.0\EnigmaTotal.exe
+C:\Users\48311441\Downloads\EnigmaTotal - 13_8\EnigmaTotal - 13_8\EnigmaTotal\bin\Debug\net8.0\EnigmaTotal.deps.json
+C:\Users\48311441\Downloads\EnigmaTotal - 13_8\EnigmaTotal - 13_8\EnigmaTotal\bin\Debug\net8.0\EnigmaTotal.runtimeconfig.json
+C:\Users\48311441\Downloads\EnigmaTotal - 13_8\EnigmaTotal - 13_8\EnigmaTotal\bin\Debug\net8.0\EnigmaTotal.dll
+C:\Users\48311441\Downloads\EnigmaTotal - 13_8\EnigmaTotal - 13_8\EnigmaTotal\bin\Debug\net8.0\EnigmaTotal.pdb
+C:\Users\48311441\Downloads\EnigmaTotal - 13_8\EnigmaTotal - 13_8\EnigmaTotal\obj\Debug\net8.0\EnigmaTotal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48311441\Downloads\EnigmaTotal - 13_8\EnigmaTotal - 13_8\EnigmaTotal\obj\Debug\net8.0\EnigmaTotal.AssemblyInfoInputs.cache
+C:\Users\48311441\Downloads\EnigmaTotal - 13_8\EnigmaTotal - 13_8\EnigmaTotal\obj\Debug\net8.0\EnigmaTotal.AssemblyInfo.cs
+C:\Users\48311441\Downloads\EnigmaTotal - 13_8\EnigmaTotal - 13_8\EnigmaTotal\obj\Debug\net8.0\EnigmaTotal.csproj.CoreCompileInputs.cache
+C:\Users\48311441\Downloads\EnigmaTotal - 13_8\EnigmaTotal - 13_8\EnigmaTotal\obj\Debug\net8.0\EnigmaTotal.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\48311441\Downloads\EnigmaTotal - 13_8\EnigmaTotal - 13_8\EnigmaTotal\obj\Debug\net8.0\EnigmaTotal.RazorAssemblyInfo.cache
+C:\Users\48311441\Downloads\EnigmaTotal - 13_8\EnigmaTotal - 13_8\EnigmaTotal\obj\Debug\net8.0\EnigmaTotal.RazorAssemblyInfo.cs
+C:\Users\48311441\Downloads\EnigmaTotal - 13_8\EnigmaTotal - 13_8\EnigmaTotal\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\48311441\Downloads\EnigmaTotal - 13_8\EnigmaTotal - 13_8\EnigmaTotal\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\48311441\Downloads\EnigmaTotal - 13_8\EnigmaTotal - 13_8\EnigmaTotal\obj\Debug\net8.0\staticwebassets\msbuild.EnigmaTotal.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\48311441\Downloads\EnigmaTotal - 13_8\EnigmaTotal - 13_8\EnigmaTotal\obj\Debug\net8.0\staticwebassets\msbuild.build.EnigmaTotal.props
+C:\Users\48311441\Downloads\EnigmaTotal - 13_8\EnigmaTotal - 13_8\EnigmaTotal\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EnigmaTotal.props
+C:\Users\48311441\Downloads\EnigmaTotal - 13_8\EnigmaTotal - 13_8\EnigmaTotal\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EnigmaTotal.props
+C:\Users\48311441\Downloads\EnigmaTotal - 13_8\EnigmaTotal - 13_8\EnigmaTotal\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\48311441\Downloads\EnigmaTotal - 13_8\EnigmaTotal - 13_8\EnigmaTotal\obj\Debug\net8.0\scopedcss\bundle\EnigmaTotal.styles.css
+C:\Users\48311441\Downloads\EnigmaTotal - 13_8\EnigmaTotal - 13_8\EnigmaTotal\obj\Debug\net8.0\EnigmaTotal.dll
+C:\Users\48311441\Downloads\EnigmaTotal - 13_8\EnigmaTotal - 13_8\EnigmaTotal\obj\Debug\net8.0\refint\EnigmaTotal.dll
+C:\Users\48311441\Downloads\EnigmaTotal - 13_8\EnigmaTotal - 13_8\EnigmaTotal\obj\Debug\net8.0\EnigmaTotal.pdb
+C:\Users\48311441\Downloads\EnigmaTotal - 13_8\EnigmaTotal - 13_8\EnigmaTotal\obj\Debug\net8.0\EnigmaTotal.genruntimeconfig.cache
+C:\Users\48311441\Downloads\EnigmaTotal - 13_8\EnigmaTotal - 13_8\EnigmaTotal\obj\Debug\net8.0\ref\EnigmaTotal.dll
+Z:\2024\Programacion\EnigmaTotal - 13.1_8\EnigmaTotal\bin\Debug\net8.0\appsettings.Development.json
+Z:\2024\Programacion\EnigmaTotal - 13.1_8\EnigmaTotal\bin\Debug\net8.0\appsettings.json
+Z:\2024\Programacion\EnigmaTotal - 13.1_8\EnigmaTotal\bin\Debug\net8.0\EnigmaTotal.staticwebassets.runtime.json
+Z:\2024\Programacion\EnigmaTotal - 13.1_8\EnigmaTotal\bin\Debug\net8.0\EnigmaTotal.exe
+Z:\2024\Programacion\EnigmaTotal - 13.1_8\EnigmaTotal\bin\Debug\net8.0\EnigmaTotal.deps.json
+Z:\2024\Programacion\EnigmaTotal - 13.1_8\EnigmaTotal\bin\Debug\net8.0\EnigmaTotal.runtimeconfig.json
+Z:\2024\Programacion\EnigmaTotal - 13.1_8\EnigmaTotal\bin\Debug\net8.0\EnigmaTotal.dll
+Z:\2024\Programacion\EnigmaTotal - 13.1_8\EnigmaTotal\bin\Debug\net8.0\EnigmaTotal.pdb
+Z:\2024\Programacion\EnigmaTotal - 13.1_8\EnigmaTotal\obj\Debug\net8.0\EnigmaTotal.GeneratedMSBuildEditorConfig.editorconfig
+Z:\2024\Programacion\EnigmaTotal - 13.1_8\EnigmaTotal\obj\Debug\net8.0\EnigmaTotal.AssemblyInfoInputs.cache
+Z:\2024\Programacion\EnigmaTotal - 13.1_8\EnigmaTotal\obj\Debug\net8.0\EnigmaTotal.AssemblyInfo.cs
+Z:\2024\Programacion\EnigmaTotal - 13.1_8\EnigmaTotal\obj\Debug\net8.0\EnigmaTotal.csproj.CoreCompileInputs.cache
+Z:\2024\Programacion\EnigmaTotal - 13.1_8\EnigmaTotal\obj\Debug\net8.0\EnigmaTotal.MvcApplicationPartsAssemblyInfo.cache
+Z:\2024\Programacion\EnigmaTotal - 13.1_8\EnigmaTotal\obj\Debug\net8.0\EnigmaTotal.RazorAssemblyInfo.cache
+Z:\2024\Programacion\EnigmaTotal - 13.1_8\EnigmaTotal\obj\Debug\net8.0\EnigmaTotal.RazorAssemblyInfo.cs
+Z:\2024\Programacion\EnigmaTotal - 13.1_8\EnigmaTotal\obj\Debug\net8.0\staticwebassets.build.json
+Z:\2024\Programacion\EnigmaTotal - 13.1_8\EnigmaTotal\obj\Debug\net8.0\staticwebassets.development.json
+Z:\2024\Programacion\EnigmaTotal - 13.1_8\EnigmaTotal\obj\Debug\net8.0\staticwebassets\msbuild.EnigmaTotal.Microsoft.AspNetCore.StaticWebAssets.props
+Z:\2024\Programacion\EnigmaTotal - 13.1_8\EnigmaTotal\obj\Debug\net8.0\staticwebassets\msbuild.build.EnigmaTotal.props
+Z:\2024\Programacion\EnigmaTotal - 13.1_8\EnigmaTotal\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EnigmaTotal.props
+Z:\2024\Programacion\EnigmaTotal - 13.1_8\EnigmaTotal\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EnigmaTotal.props
+Z:\2024\Programacion\EnigmaTotal - 13.1_8\EnigmaTotal\obj\Debug\net8.0\staticwebassets.pack.json
+Z:\2024\Programacion\EnigmaTotal - 13.1_8\EnigmaTotal\obj\Debug\net8.0\scopedcss\bundle\EnigmaTotal.styles.css
+Z:\2024\Programacion\EnigmaTotal - 13.1_8\EnigmaTotal\obj\Debug\net8.0\EnigmaTotal.dll
+Z:\2024\Programacion\EnigmaTotal - 13.1_8\EnigmaTotal\obj\Debug\net8.0\refint\EnigmaTotal.dll
+Z:\2024\Programacion\EnigmaTotal - 13.1_8\EnigmaTotal\obj\Debug\net8.0\EnigmaTotal.pdb
+Z:\2024\Programacion\EnigmaTotal - 13.1_8\EnigmaTotal\obj\Debug\net8.0\EnigmaTotal.genruntimeconfig.cache
+Z:\2024\Programacion\EnigmaTotal - 13.1_8\EnigmaTotal\obj\Debug\net8.0\ref\EnigmaTotal.dll

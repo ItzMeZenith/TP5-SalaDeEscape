@@ -1,0 +1,127 @@
+*{
+    font-family: monospace;
+
+}
+
+body, html {
+    height: 100%;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    color: #fff;
+    text-align: center;
+}
+
+.video-background {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    z-index: -1;
+}
+
+
+.span-verde{
+
+    color: rgb(5, 201, 5);
+    border-right: 4px solid;
+    width: 113ch;
+    animation: typing 5s steps(100), blink .5s infinite step-end alternate;
+    overflow: hidden;
+    font-weight: bold;
+    position: relative;
+    margin-top: 30px;
+}
+
+@keyframes typing {
+    from { width: 0;}
+}
+
+@keyframes blink {
+    50% { border-color: transparent;}
+}
+
+.span-rojo{
+
+    color: red;
+    border-right: 4px solid;
+    width: 120ch;
+    animation: typing 5s steps(100), blink .5s infinite step-end alternate;
+    overflow: hidden;
+    font-weight: bold;
+    margin-top: 15px;
+    
+}
+
+.span-verde, .span-rojo {
+    display: block;
+    width: 100%;
+    white-space: wrap;
+    word-wrap: break-word;
+}
+
+@keyframes typing {
+    from { width: 0;}
+}
+
+@keyframes blink {
+    50% { border-color: transparent;}
+}
+
+.pista{
+    margin-top: 30px;
+}
+
+.bot-trans{
+    color: red !important;
+    position: absolute;
+    bottom: 50vh;
+    left: 80vh;
+}
+
+.btn-success{
+    margin: 10px;
+}
+
+.span-verde2{
+
+    color: rgb(5, 201, 5);
+    display: block;
+    white-space: nowrap;
+    border-right: 4px solid;
+    width: 500ch;
+    animation: typing 5s steps(100), blink .5s infinite step-end alternate;
+    overflow: hidden;
+    font-weight: bold;
+    position: relative;
+    margin-top: 30px;
+}
+
+@keyframes typing {
+    from { width: 0;}
+}
+
+@keyframes blink {
+    50% { border-color: transparent;}
+}
+
+.span-rojo2{
+
+    color: red;
+    display: block;
+    white-space: nowrap;
+    border-right: 4px solid;
+    width: 420ch;
+    animation: typing 17s steps(420), blink .5s infinite step-end alternate;
+    overflow: hidden;
+    font-weight: bold;
+    margin-top: 15px;
+    
+}
+
+@keyframes typing {
+    from { width: 0;}
+}
+
+@keyframes blink {
+    50% { border-color: transparent;}
+}

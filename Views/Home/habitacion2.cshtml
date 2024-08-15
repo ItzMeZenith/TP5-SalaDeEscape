@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"] - Enigma Total</title>
+    <link rel="stylesheet" href="/css/habitaciones.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+
+</head>
+<body>
+
+<h3 style="Color:red;">@ViewBag.Error</h3>
+
+<video autoplay muted loop class="video-background">
+        <source src="/imgs/FONDO_ENIGMA.mp4" type="video/mp4">
+    </video>
+
+     <div class="container my-5">
+            <div class="text-center bg-dark p-3 rounded-3 text-white">
+
+                <img src="/imgs/ENIGMA-TOTAL-Logo.png" alt="Enigma Total Logo" class="logo m-0" width="350px">
+                
+
+                <h1>Policía; Esto no es lo que parece... </h1>
+                <div class="caja-span bg-black my-5 p-3 rounded-3">
+                    <span class="span-verde">*Aja! Pareces haber recordado tu nombre pero... No todo está resuelto*
+                            <i>tocan la puerta</i> -Policía- "Señor, se encuentra usted bien?" -Alan- "¿Que sucedió oficial?"
+                            -Policía- "Usted ha sido aparentemente atacado la noche anterior. Mire a su alrededor! Su casa está hecha un desastre..."</span>
+                    <span class="span-rojo"> Recuerdas de a poco. Eres un profesor de matemática y un simple aficionado por las ciencias. Es sumamente extraño
+                        un ataque de tal grado en un pueblo así de pequeño, más aún habiendo hace muy poco finalizado la Segunda Guerra Mundial. Pueden sospechar de tí...
+                         Encuentra en esta habitacion tus registros de constancia militar. Cuidado! Pueden haber objetos que insinuen otras cosas. 
+                         </span>
+
+                </div>
+                 
+                <div style="position: relative;">
+                <img src="/imgs/TuringRoomDay.jpg" width=80% alt="Turing Room Day">
+                <a href="" style="position: absolute; top: 23%; left: 70%; width: 80px; height: 30px; opacity: 0;"></a>
+                </div>
+
+                <br/>
+
+
+                <button class="pista" onclick="alert('Chequea la mesa de Alan')"> Pista </button>
+
+                <form action='@Url.ActionLink("Habitacion", "Home")' method="POST">
+                <div class="row bg-dark my-5">
+                    <div class="col">
+                        <input type="text" class="form-control" placeholder="¿Que instrumento puede insinuar otras cosas?" aria-label="Objeto" name="clave">
+                    </div>
+                </div>
+                <input type="hidden" name="sala" value=2>
+                <input type="submit" text="Enviar">
+                </form>
+
+            </div>
+
+        </div>
+
+    
+</body>
+</html>

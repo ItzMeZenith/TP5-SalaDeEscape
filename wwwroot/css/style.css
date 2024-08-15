@@ -1,0 +1,41 @@
+
+*{
+    font-family: monospace;
+
+}
+
+body, html {
+    height: 100%;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    color: #fff;
+    text-align: center;
+}
+
+.video-background {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    z-index: -1;
+}
+
+span{
+
+    color: rgb(5, 201, 5);
+    display: block;
+    white-space: nowrap;
+    border-right: 4px solid;
+    width: 52ch;
+    animation: typing 4s steps(52), blink .5s infinite step-end alternate;
+    overflow: hidden;
+    
+}
+
+@keyframes typing {
+    from { width: 0;}
+}
+
+@keyframes blink {
+    50% { border-color: transparent;}
+}
